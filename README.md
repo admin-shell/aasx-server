@@ -7,9 +7,7 @@ Currenty uses .NET Core Preview 3
 https://dotnet.microsoft.com/download/dotnet-core/3.0
 Runtime 3.0.0-preview3-27503-5
 
-Copy opc*.xml into execution directory
-
-Start with switch --help to see switches (or check in program.cs run())
+Start AasxServer.exe with switch --help to see switches (or check in program.cs run())
 
 Server loads all .AASX files in the execution directory
 
