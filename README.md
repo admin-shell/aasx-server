@@ -3,9 +3,10 @@ Server of I40 .AASX packages accessable by REST, OPC UA and MQTT
 
 AASX Server - based on code of AASX Package Explorer
 
-Currenty uses .NET Core Preview 3
+Please install .NET Core Preview 3
+
 https://dotnet.microsoft.com/download/dotnet-core/3.0
-Runtime 3.0.0-preview3-27503-5
+  Runtime 3.0.0-preview3-27503-5
 
 Start AasxServer.exe with switch --help to see switches
 
