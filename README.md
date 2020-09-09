@@ -1,4 +1,9 @@
 # aasx-server
+
+
+** This project has moved to: https://github.com/admin-shell-io/aasx-server **
+
+
 Server of I40 .AASX packages accessable by REST, OPC UA and MQTT
 
 AASX Server - based on code of AASX Package Explorer
